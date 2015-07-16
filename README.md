@@ -1,7 +1,7 @@
 # iRedMail Docker Container #
 ## Information ##
 
-This project uses [iRedMail-0.9.0][1] (as on 02/2015) with:
+This project uses [iRedMail-0.9.2][1] (as on 02/2015) with:
 
 * iRedAdmin-0.4.1
 * iRedAPD-1.4.4
